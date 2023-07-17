@@ -1,10 +1,26 @@
 {
-  "ExampleAuthor1": {
-    "mods": {
-      "Example Mod 1": {
-        "file": "https://github.com/TheError404/BMM/Mods/ExampleMod1.dll",
-        "description": "Example Mod hehe"
+    "ExampleAuthor1": {
+      "mods": {
+        "Example Mod 1": {
+          "file": "https://github.com/TheError404/BMM/Mods/ExampleMod1.dll",
+          "description": "Example Mod hehe"
+        }
       }
+    },
+    "Yizzii": {
+        "mods": {
+            "YizziCamModV2": {
+                "file": "https://github.com/Yizzii/YizziCamModV2/releases/download/beta1.0.4/YizziCamModV2.dll",
+                "description": "Cool Camera Mod"
+            }
+        }
+    },
+    "CrafterBot": {
+        "mods": {
+            "TextureLoader": {
+            "file": "https://github.com/CrafterBotOfficial/GorillaTextureLoader/releases/download/1.0.2/TextureLoader.zip",
+            "description": "A simple textureloader mod for Gorilla Tag."
+            }
+        }
     }
-  }
 }
