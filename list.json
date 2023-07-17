@@ -1,0 +1,10 @@
+{
+  "ExampleAuthor1": {
+    "mods": {
+      "Example Mod 1": {
+        "file": "https://github.com/TheError404/BMM/Mods/ExampleMod1.dll",
+        "description": "Example Mod hehe"
+      }
+    }
+  }
+}
